@@ -1,10 +1,7 @@
 # Express.js on Netlify Example
 
 [![Netlify
-Status](https://api.netlify.com/api/v1/badges/9aaef7de-1e5d-4fda-bc39-faa10a68b35b/deploy-status)](https://app.netlify.com/sites/netlify-express/deploys)
-
-[![Deploy to
-Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/neverendingqs/netlify-express)
+Status](https://api.netlify.com/api/v1/badges/9aaef7de-1e5d-4fda-bc39-faa10a68b35b/deploy-status)](https://affectionate-ritchie-76f733.netlify.app/)
 
 An example of how to host an Express.js app on Netlify using
 [serverless-http](https://github.com/dougmoscrop/serverless-http). See
